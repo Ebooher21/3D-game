@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3 uid="uid://cs2q5oa2aowob"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_shx0w"]
+size = Vector3(1, 0.849121, 1)
+
+[node name="Player" type="CharacterBody3D"]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0310564, -0.112011, 0.0397322)
+shape = SubResource("BoxShape3D_shx0w")
+
+[node name="Skeleton3D" type="Skeleton3D" parent="."]
+transform = Transform3D(0.208356, 0.978053, 0, -0.978053, 0.208356, 0, 0, 0, 1, -179.797, -170.43, 1.97086)
+
+[node name="PIvot" type="Node3D" parent="."]

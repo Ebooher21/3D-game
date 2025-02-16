@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://5bpgokxacdri"
+path.s3tc="res://.godot/imported/Astronauta_3.png-f49e2e1a9c97add6ee10d0cf33c8e30c.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "7696ef7bda0ea20f48c3abc5141afcce"
+}
+
+[deps]
+
+source_file="res://art/Astronauta_3.png"
+dest_files=["res://.godot/imported/Astronauta_3.png-f49e2e1a9c97add6ee10d0cf33c8e30c.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=8
+roughness/src_normal="res://art/Astronauta_2.png"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
